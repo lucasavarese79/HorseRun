@@ -1,0 +1,37 @@
+Furia_1 Black_3 Johnny_4 Micheal_6 Red_5 Sioux_7 Denny_2
+NEW_ROUND
+1 0
+2 4
+3 7
+4 10
+5 2
+6 19
+7 12
+END_ROUND
+NEW_ROUND
+1 5
+2 8
+3 3
+4 14
+5 6
+6 17
+7 11
+END_ROUND
+NEW_ROUND
+1 1
+2 9
+3 7
+4 13
+5 4
+6 15
+7 12
+END_ROUND
+NEW_ROUND
+1 6
+2 4
+3 12
+4 9
+5 8
+6 16
+7 18
+END_ROUND
